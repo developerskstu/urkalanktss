@@ -15,7 +15,7 @@ loggers
 filetype
 tldextract
 aiofiles
-pyromod
+pyromod==1.5
 yt-dlp
 filesplit==4.0.0
 mega.py
